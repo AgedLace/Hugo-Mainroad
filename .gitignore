@@ -2,8 +2,11 @@
 # Generated files by hugo
 /public/
 /resources/_gen/
+/themes/**/exampleSite/
+/archetypes/**
 /assets/jsconfig.json
 hugo_stats.json
+/node_modules
 
 # Executable may be added to repository
 hugo.exe
