@@ -1116,7 +1116,7 @@ textarea {
 .widget-search__field:active,
 .widget-search__field:focus {
 	cursor: text;
-	outline: 2px solid #005fcc;
+	outline: 2px solid #84ea90;
 }
 
 /* Social widget */
@@ -1166,7 +1166,7 @@ textarea {
 	font-size: .75rem;
 	color: #999;
 	background: #2a2a2a;
-	border-top: 3px solid #884ea0;
+	border-top: 3px solid #84ea90;
 }
 
 .footer__container {
