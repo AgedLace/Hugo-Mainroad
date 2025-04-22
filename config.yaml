@@ -42,8 +42,8 @@ params:
     - categories
   dateformat: "January 01, 2006 03:04 PM"
   googleFontsLink: https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700
-#  customCSS:
-#    - 'css/custom.css'
+  customCSS:
+    - 'sass/vendors/_admonitions.scss'
 #  customJS:
 #    - 'js/custom.js'
   style:
