@@ -15,7 +15,7 @@ taxonomies:
 
 enableRobotsTXT: true
 pluralizeListTitles: false
-contentDir: "hugo-output"
+contentDir: "hugo"
 ignoreFiles: \/Templates\/*
 enableGitInfo: true
 
